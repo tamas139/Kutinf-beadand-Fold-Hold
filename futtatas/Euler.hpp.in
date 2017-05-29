@@ -1,0 +1,3 @@
+// verzioszamok, amiket a cmake allit be ...
+#define Eulerstep_VERSION_MAJOR @Euler_verzio@
+#define Eulerstep_VERSION_MINOR @Euler_alverzio@
